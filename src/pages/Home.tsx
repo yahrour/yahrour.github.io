@@ -20,10 +20,10 @@ export default function Home() {
             solutions.
           </p>
           <p className="text-secondary text-[0.9rem] leading-7">
-            Currently working on a project that requires me to dive into{" "}
-            <span className="text-foreground font-medium">NestJS</span>,
-            strengthening my backend development skills and understanding of its
-            ecosystem.
+            Currently building an incident lifecycle manager — a{" "}
+            <span className="text-foreground font-medium">NestJS</span> backend
+            with a modern frontend, tracking and resolving incidents end to end
+            while deepening my understanding of the framework&apos;s ecosystem.
           </p>
         </div>
       </div>
